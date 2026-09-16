@@ -1,17 +1,13 @@
 # ⚡ Soyaib
 
-*"Efficiency through automation. Clarity through data."*
+"Efficiency through automation. Clarity through data."
 
-### ❖ About Me
-- 🔭 Currently building a professional portfolio and refining my local development environment.
-- 🌱 Deep diving into **Python**, focusing on **Web Scraping**, **Automation**, and **Data Analytics**.
-- ⚡ Exploring the depths of libraries like BeautifulSoup and Selenium to extract raw data and turn it into logic.
-- 🎯 Objective: Writing clean, efficient, and stoic code.
+### 🚀 About Me
+- 🔭 Currently building a professional portfolio blending **Data Analytics** and **Backend Automation**.
+- 🌱 Deep diving into **Python**, focusing on **SQL**, **Data Wrangling (Pandas)**, and **Web Scraping**.
+- ⚡ Exploring the intersection of **Business Intelligence** and automation to turn raw data into actionable logic.
+- 🎯 Objective: Writing clean code and building scalable data-driven solutions.
 
-### ❖ Tech Stack
-**Languages & Environment:** Python, Markdown, Git, Visual Studio Code
-**Core Focus:** Selenium, BeautifulSoup, Data Structures
-
-### ❖ GitHub Stats
-![Soyaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdsoyaibshamim-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)# mdsoyaibshamim-lang
-
+### 🛠 Tech Stack
+**Languages & Environment:** Python, SQL, Markdown, Git.
+**Core Focus:** Data Analytics, Business Intelligence, Web Automation.
