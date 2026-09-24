@@ -1,13 +1,13 @@
 # ⚡ Soyaib
 
-"Efficiency through automation. Clarity through data."
+"Replacing manual operations with scalable AI systems. Code is absolute leverage."
 
 ### 🚀 About Me
-- 🔭 Currently building a professional portfolio blending **Data Analytics** and **Backend Automation**.
-- 🌱 Deep diving into **Python**, focusing on **SQL**, **Data Wrangling (Pandas)**, and **Web Scraping**.
-- ⚡ Exploring the intersection of **Business Intelligence** and automation to turn raw data into actionable logic.
-- 🎯 Objective: Writing clean code and building scalable data-driven solutions.
+- 🔭 Currently building a foundation in **AI Agent Architecture** and **Business Process Automation**.
+- 🌱 Deep diving into **Python**, **REST APIs**, and **LLM Integrations** (OpenAI/Anthropic).
+- ⚡ Architecting workflows that connect isolated software to automate high-ticket business operations without human bottlenecks.
+- 🎯 Objective: Evolving from traditional development to orchestrating autonomous, high-leverage AI systems for the future economy.
 
 ### 🛠 Tech Stack
-**Languages & Environment:** Python, SQL, Markdown, Git.
-**Core Focus:** Data Analytics, Business Intelligence, Web Automation.
+- **Languages & Core:** Python, Git, JSON, Markdown.
+- **Strategic Focus:** AI Automation, API Integrations, LLM Orchestration, System Architecture.
